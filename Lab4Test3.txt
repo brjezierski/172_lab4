@@ -1,0 +1,4 @@
+insert 0 DNA AATTCCGGAATTCCGG
+print
+insert 0 DNA CCTTAA
+print

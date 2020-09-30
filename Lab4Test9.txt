@@ -1,0 +1,2 @@
+insert 0 DNA AATTCCGGAATTCCGG
+clip 0 -1 3

@@ -1,0 +1,25 @@
+Error occurred while inserting
+Error occurred while inserting
+0       DNA     AATTCCGGAATTCCGG
+2       RNA     UAGACAUGGAUU
+4       DNA     AATTCCGGAATTCCGG
+No sequence to remove at specified position
+0       DNA     AATTCCGGAATTCCGG
+2       RNA     UAGACAUGGAUU
+DNA     AATTCCGGAATTCCGG
+RNA     UAGACAUGGAUU
+No sequence to print at specified position
+DNA     AATTCCGG
+End index is out of bounds
+Invalid start value
+No sequence to clip at specified position
+0       DNA     AATTCCGG
+1       DNA    
+2       RNA     UAGACAUGGAUU
+No sequence to copy at specified position
+0       DNA     AATTCCGG
+1       DNA     AATTCCGG
+2       RNA     UAGACAUGGAUU
+Cannot transcribe RNA
+No sequence to transcribe at specified position
+RNA	CCGGAAUU
