@@ -1,2 +1,4 @@
 insert 0 DNA AATTCCGGAATTCCGG
+print
 clip 0 5 3
+print

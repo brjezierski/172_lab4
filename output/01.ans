@@ -11,7 +11,7 @@ RNA     UAGACAUGGAUU
 No sequence to print at specified position
 DNA     AATTCCGG
 End index is out of bounds
-Invalid start value
+Invalid start index
 No sequence to clip at specified position
 0       DNA     AATTCCGG
 1       DNA    
