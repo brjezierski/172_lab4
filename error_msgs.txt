@@ -1,0 +1,17 @@
+1	Executing on the input file provided to students
+2	Inserting a new sequence
+3	Inserting when there is already a sequence at pos
+4	Inserting when letters of the sequence are inappropriate
+5	Removing a sequence
+6	Removing when there is a sequence at pos
+7	Printing when there is no sequence at pos
+8	Clipping a sequence
+9	Clipping when the start the start index is invalid
+10	Clipping when the start index is out of bounds 
+11	Clipping when the end index is out of bounds 
+12	Clipping when the end index is less than the start index 
+13	Copying a sequence 
+14	Copying when there is no sequence at pos
+15	Transcribing a sequence 
+16	Transcribing an RNA sequence
+17	Transcribing when there is no sequence at pos
